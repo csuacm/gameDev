@@ -1,2 +1,2 @@
 # gameDev
-Game Development repository for CSUACM
+Game Development repository for CSU-ACM/GDC

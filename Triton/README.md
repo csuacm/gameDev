@@ -1,4 +1,3 @@
 # Triton (QT)
-
-CSU ACM Game Development Project
+2D RPG Game Development Project
 Winter 2016

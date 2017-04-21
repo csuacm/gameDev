@@ -5,4 +5,5 @@ Contributors: Habeeb Mohammed, Colton Larson, Joshua Lutz, Kevin Adair, Michael 
 
 # To get started:
     /AI/ contains enemy AI a* and θ* pathfinding behavior scripts
+    S
     

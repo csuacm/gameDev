@@ -3,5 +3,6 @@
 
 Contributors: Habeeb Mohammed, Colton Larson, Joshua Lutz, Kevin Adair, Michael McCaffery, Joshua Keahey
 
-To get started:
-    Each folder contains a .zip of a separate standalone Unity package. Just unzip and go!
+# To get started:
+    /AI/ contains enemy AI a* and θ* pathfinding behavior scripts
+    
